@@ -9,7 +9,7 @@ Dit Canvas kun je gebruiken om als team voortdurend de meest riskante aannames t
 
 ## Releases
 
-De huidige release is up to date met de meest recente engelse release, versie 2. Download de [nieuwste NL **Release**](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) om de meest stabiele en recente versie te gebruiken van deze nederlandse vertaling. Wij beloven dat we deze up-to-date houden. ;-)
+De huidige release is up to date met de meest recente engelse release, versie 2. Download de [nieuwste NL **Release**](https://github.com/ScrumFacilitators/lean-ux-canvas-nl/releases/latest) om de meest stabiele en recente versie te gebruiken van deze nederlandse vertaling. Wij beloven dat we deze up-to-date houden. ;-)
 
 
 ## Licentie
